@@ -29,7 +29,7 @@ def custom_max(n1: int, n2: int):
     raise Exception("Algo salio mal")
 
 """
-1. Definir una función max_de_tres(), que tome tres números como argumentos 
+2. Definir una función max_de_tres(), que tome tres números como argumentos 
 y devuelva el mayor de ellos.
 """
 
